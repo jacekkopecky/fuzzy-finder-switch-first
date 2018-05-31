@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Ensure that fuzzy finder doesn't show current editor as first match",
   "keywords": [],
-  "repository": "https://github.com/atom/fuzzy-finder-switch-first",
+  "repository": "https://github.com/jacekkopecky/fuzzy-finder-switch-first",
   "license": "MIT",
   "devDependencies": {
     "standard": "^10.0.3"
