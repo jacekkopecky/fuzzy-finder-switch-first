@@ -1,7 +1,7 @@
 # Fuzzy Finder Switch First package
 
-With this package, fuzzy finder will not give the current active editor as the
-first match.
+With this Atom package, fuzzy finder will not give the current active editor as
+the first match.
 
 For example, you have a project with HTML and JS files named the same but the
 file extension, e.g. `project-marking.html` and `project-marking.js`. It makes
