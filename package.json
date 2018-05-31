@@ -1,7 +1,7 @@
 {
   "name": "fuzzy-finder-switch-first",
   "main": "./lib/fuzzy-finder-switch-first",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ensure that fuzzy finder doesn't show current editor as first match",
   "keywords": [],
   "repository": "https://github.com/jacekkopecky/fuzzy-finder-switch-first",
